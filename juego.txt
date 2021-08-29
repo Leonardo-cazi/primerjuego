@@ -1,1 +1,3 @@
 Este es el primer commit con txt de leo
+
+Hola soy javi y voy a estar apoyando en la creación de este primer juego
